@@ -15,3 +15,9 @@
   <li> Based in Arezzo, Italy
   <li> Actually working on my first project, a flight-prenotation web app 🛫️
   <li> Looking for switching career 
+</ul>
+
+<h3> Social: </h3>
+https://www.linkedin.com/in/francesco-scavone-a2b6a0178/
+
+https://www.facebook.com/francesco.scavone.16
