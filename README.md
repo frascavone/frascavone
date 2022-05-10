@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! my name is Francesco 😊️
+
+<ul>
+  <li> Self-taught full stack web developer
+  <li> Based in Arezzo, Italy
+  <li> Actually working on a flight-prenotation web app 🛫️
