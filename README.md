@@ -17,6 +17,8 @@
   <li> Actually improving my Javascript skills
 </ul>
 
+<h3> You can see my Portfolio <a href="https://frascavone.github.io/Portfolio/">here</a>
+
 <h3> Social: </h3>
 https://www.linkedin.com/in/francesco-scavone-a2b6a0178/
 
