@@ -13,8 +13,8 @@
 <ul>
   <li> Self-taught web developer
   <li> Based in Arezzo, Italy
-  <li> Actually working on my first project, a flight-prenotation web app 🛫️
   <li> Looking for switching career 
+  <li> Actually improving my Javascript skills
 </ul>
 
 <h3> Social: </h3>
