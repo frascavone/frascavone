@@ -14,10 +14,10 @@
   <li> Self-taught web developer
   <li> Based in Arezzo, Italy
   <li> Looking for switching career 
-  <li> Actually improving my Javascript skills...
+  <li> Actually learning React...
 </ul>
 
-<h3> You can see my Portfolio <a href="https://frascavone.github.io/Portfolio/">here</a>
+<h3> You can see my Portfolio <a href="https://www.frascavone.it/">here</a>
 
 <h3> Social: </h3>
 https://www.linkedin.com/in/francesco-scavone-a2b6a0178/
