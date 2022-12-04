@@ -14,7 +14,7 @@
   <li> Self-taught web developer
   <li> Based in Arezzo, Italy
   <li> Looking for switching career 
-  <li> Actually learning React...
+  <li> Actually learning Vue.js...
 </ul>
 
 <h3> You can see my Portfolio <a href="https://www.frascavone.it/">here</a>
