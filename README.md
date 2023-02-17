@@ -13,11 +13,10 @@
 <ul>
   <li> Self-taught web developer
   <li> Based in Arezzo, Italy
-  <li> Looking for switching career 
-  <li> Actually learning Vue.js...
+  <li> Trying to start a career in web development
 </ul>
 
-<h3> You can see my Portfolio <a href="https://www.frascavone.it/">here</a>
+<h3>  <a href="https://www.frascavone.it/">See my Portfolio here :) </a> </h3>
 
 <h3> Social: </h3>
 https://www.linkedin.com/in/francesco-scavone-a2b6a0178/
