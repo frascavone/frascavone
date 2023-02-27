@@ -17,8 +17,3 @@
 </ul>
 
 <h3>  <a href="https://www.frascavone.it/">See my Portfolio here :) </a> </h3>
-
-<h3> Social: </h3>
-https://www.linkedin.com/in/francesco-scavone-a2b6a0178/
-
-https://www.facebook.com/francesco.scavone.16
